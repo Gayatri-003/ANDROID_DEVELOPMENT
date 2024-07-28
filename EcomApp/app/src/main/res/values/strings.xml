@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AminLoginPanel</string>
+
+    <string-array name="branch">
+        <item>Choose</item>
+        <item>Computer Science</item>
+        <item>Aerospace Engineering</item>
+        <item>Electronic and Telecommunication</item>
+        <item>Mechanical</item>
+        <item>AI-Data Science</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Choose</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+    </string-array>
+
+    <string-array name="sem">
+        <item>Choose</item>
+        <item>I</item>
+        <item>II</item>
+    </string-array>
+
+    <string-array name="product">
+        <item>Choose</item>
+        <item>Laptop</item>
+        <item>Smart watch</item>
+        <item>Headphones/Eardopes</item>
+        <item>VR Headset</item>
+        <item>Calculator</item>
+        <item>Pendrives</item>
+    </string-array>
+
+    <string-array name="brand">
+        <item>Choose</item>
+        <item>Apple/MAC</item>
+        <item>Samsung</item>
+        <item>Lenovo</item>
+        <item>Sony</item>
+        <item>Sandisk</item>
+        <item>Hp</item>
+    </string-array>
+
+</resources>
